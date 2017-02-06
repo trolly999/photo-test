@@ -8,7 +8,7 @@ server:
 database:
   driverClass: com.mysql.jdbc.Driver
   user: photos
-  password: ubuntu
+  password: xxxxxx
   url: jdbc:mysql://192.168.100.198:3306/photos
 # the SQL query to run when validating a connection's liveness
   validationQuery: "/* MyService Health Check */ SELECT 1"
